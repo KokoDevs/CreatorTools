@@ -3,7 +3,7 @@
 	"package": "me.kokostrike.creatortools.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		//"ChatMixin"
+		"ChatMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
